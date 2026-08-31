@@ -1,2 +1,7 @@
-# New-York--population-density--QGIS
-Here is a map of population density distribution of the New York city from 2010 data.
+# New-York--population-density--QGIS                                                                                             
+## Overview                                                                                                                            This project presents a map of population density distribution across New York City using 2010 population data.
+## Data Source                                                                                                                         Population data : Population Division, New York City; Department Of city planning.
+## Methodology                                                                                                                         Population density = Population/Area. The calculated density values were classified into different ranges and visualized using graduated symbology.
+## Tools used                                                                                                                         . QGIS 3.34.8                                                                                                                        . Python
+## Output                                                                                                                               The final map shows the spatial distribution of population density across New York City.
+## Author                                                                                                                               Ananya Srivastava
